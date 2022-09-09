@@ -1,0 +1,6 @@
+div.boven { height: 100px; background: pink; }
+div.onder { height: 100px; background: purple; }
+
+span.hover { color: red; font-weight: bold; }
+a { color: orange; font-weight: bold; font-style: italic; }
+.vet { font-weight: bold; }
