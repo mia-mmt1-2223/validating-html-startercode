@@ -2,9 +2,6 @@
 
 *PLEASE READ THIS **ENTIRE** DOCUMENT FIRST*
 
-* [the assignment](#the-assignment)
-
-
 ## The assignment
 
 Download this repo and run this project locally. Validate the local HTML with the [HTML Validator](https://validator.w3.org/#validate_by_input) (you can use the **Validate by Direct Input** option to copy and paste your HTML into this area). Fix all issues in the index.html. 
