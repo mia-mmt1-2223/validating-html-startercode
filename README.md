@@ -13,9 +13,4 @@ Download this repo and run this project locally. Validate the local HTML with th
 Tip: do this step by step and re-validate the code again; sometimes multiple errors disappear when fixing 1 line.
 The only purpose of this assignment is to have no warnings or errors, so do some research (google) if you can't fix things immediately. 
 
-Make sure that this edited website has no errors or warnings anymore. 
-
-## Submitting your work
-* Create a new branch called **gh-pages** and upload your local work into this branch.
-* Start a new **pull request**, select **one** reviewer and make sure to put the (working) **GitHub Pages URL** in the comment section. 
-* Do **not** merge this Pull Request yourself. That's up to the reviewer to decide (merging is approving the assignment).
+Make sure that this edited website has no errors or warnings anymore.
